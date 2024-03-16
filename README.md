@@ -1,5 +1,5 @@
 Welcome you to follow our model StripUnet!
 
-Before our article is accepted, we would like to make the network structure public. When the article is accepted, we will disclose all the codes, including training and testing files, the weights we obtained, utils, and various codes used to test the model performance.
+Before our article was accepted, we had already published the code for the network structure. However, to protect our work, we will disclose all of our work, including pre-trained weights, training and testing files, only after the article is accepted. We hope for your understanding.
 
 Thank you again for your attention!
